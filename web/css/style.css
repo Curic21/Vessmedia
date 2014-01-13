@@ -1,0 +1,18 @@
+
+
+body{
+    background-color: rgb(33,32,35);
+    color: #cccccc;
+    padding: 0;
+}
+.col-md-2{
+   padding: 0;
+}
+
+#logo{
+ width: 14em;
+ height: 100%;
+}
+.image{
+    width:100%;
+}
