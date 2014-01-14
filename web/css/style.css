@@ -1,18 +1,58 @@
 
 
 body{
-    background-color: rgb(33,32,35);
-    color: #cccccc;
     padding: 0;
+
 }
-.col-md-2{
-   padding: 0;
+
+.col-xs-2{
+    margin: 0 !important;
+    padding: 0 !important;
+
+}
+#menu{
+    background-color: rgb(33,32,35);
+    height: 100%;
+    position: fixed;
 }
 
 #logo{
- width: 14em;
- height: 100%;
+    padding-top: 2em;
+    width: 80%;
 }
+
 .image{
     width:100%;
+}
+#imagenes{
+    background-color: rgb(253,109,5);
+}
+
+
+#texto1{
+    font-size: 12px;
+    padding-left: 1em;
+    color: #666666;
+}
+
+#texto2{
+    font-size: 13px;
+    font-weight: bold;
+    color: rgb(253,109,5);
+    padding-top:1em;
+}
+
+td{
+    padding: 1em 1em 1em 1em;
+}
+
+#texto3 p{
+    font-size: 13px;
+    padding: 1em 0em 0em 1em;
+    color: #ffffff;
+}
+
+ul>li{
+    margin-left: 1.5em;
+    padding-bottom: 0.2em;
 }
